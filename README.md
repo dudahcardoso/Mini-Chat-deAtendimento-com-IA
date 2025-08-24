@@ -33,7 +33,8 @@ Mini-Chat-deAtendimento-com-IA/
 
 └── script.js      # Lógica de resposta simulada
 
-Como usar
+---
+## Como usar
 
 Digite uma pergunta ou mensagem no campo de entrada.
 
