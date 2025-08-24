@@ -27,7 +27,9 @@ cd Mini-Chat-deAtendimento-com-IA
 Estrutura do projeto
 Mini-Chat-deAtendimento-com-IA/
 ├── index.html     # Estrutura da interface
+
 ├── style.css      # Estilo da página
+
 └── script.js      # Lógica de resposta simulada
 
 Como usar
